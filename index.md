@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Chulapa on remote
-header_type: hero
+header_type: image
+header_img: /assets/images/logo.png
 subtitle: Starter pack
 ---
-
-![Stephany Teitsworth Logo](/assets/images/logo.png)
 
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
 
